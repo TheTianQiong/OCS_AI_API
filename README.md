@@ -12,6 +12,8 @@
 
 ### 1. 安装依赖
 
+请下载该项目的ZIP文件
+
 确保已安装 [Node.js](https://nodejs.org/) (建议 v18+)
 
 ```bash
