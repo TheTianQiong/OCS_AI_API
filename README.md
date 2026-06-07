@@ -9,6 +9,8 @@
 
 测试cloudflare workers的可行性
 
+添加前端管理平台，管理自行设定的API和其流量
+
 ## 项目需求
 
 本地（推荐，已测试）或服务器（未尝试，可以自行研究部署到cloudflare workers）
